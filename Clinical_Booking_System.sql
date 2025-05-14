@@ -72,7 +72,7 @@ INSERT INTO Doctors (name, specialization, department_id, email) VALUES
 
 -- inserting into patients
 INSERT INTO Patients (name, date_of_birth, phone, email) VALUES 
-('John Doe', '1990-04-15', '0712345678', 'john@example.com'),
+('John Gicheru', '1990-04-15', '0712345678', 'john@example.com'),
 ('Jane Njeri', '1985-11-22', '0723456789', 'jane@example.com'),
 ('Samuel Kiptoo', '2000-06-09', '0734567890', 'samuel@example.com');
 
