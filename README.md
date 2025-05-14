@@ -41,6 +41,7 @@ This system models real-world relationships between patients, doctors, departmen
 Below is the visual ERD for the system:
 
 ![ERD](https://lucid.app/lucidchart/4c48e105-81c5-4730-90a4-2f95cc8cfa65/edit?view_items=2mDfatVtxcF4&invitationId=inv_258a220a-e01f-47c4-a09b-5d391092f704)
+https://lucid.app/lucidchart/4c48e105-81c5-4730-90a4-2f95cc8cfa65/edit?invitationId=inv_258a220a-e01f-47c4-a09b-5d391092f704&page=0_0#
 
 
 
